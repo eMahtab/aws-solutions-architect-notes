@@ -49,3 +49,5 @@ https://docs.google.com/document/d/1wuT4_z0c4NM3Yct1msixeCVDzs9CxuRNrVscmdruXPc/
 # EC2 - Elastic Compute Cloud
 https://docs.google.com/document/d/1h7oev9_8rpLfgb4LKG0mXFlpv9rRuLGUkMfx_U9alzI/edit?usp=sharing
 
+# Security Groups for your VPC
+https://docs.google.com/document/d/1sC8Agcdnh876cwGL3_zH9no3i5spAJF-YdivTbbyq3A/edit?usp=sharing
