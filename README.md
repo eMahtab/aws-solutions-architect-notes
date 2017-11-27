@@ -31,6 +31,10 @@ https://docs.google.com/document/d/1whavlksYIf7iAkVtXABC17BLIFYxEElEvgpUFZlE-Ss/
 # S3 Object Encryption
 https://docs.google.com/document/d/1tdBkzjxKiMAnS61rpK0xDlkqLeRSgAQOsJV7l2U2cN4/edit?usp=sharing
 
+# AWS Snowball
+https://docs.google.com/document/d/1x0D2i6h3RD-XOn9Fn2Y9q1B2BjjXS9mFmpE8DpceN8w/edit?usp=sharing
 
+# AWS Import Export Disk
+https://docs.google.com/document/d/1jJHey03EdDHZOa7e2ATsvybpxOcy_bd-IKYS-ocF-0U/edit?usp=sharing
 
 
