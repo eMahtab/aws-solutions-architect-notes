@@ -43,3 +43,6 @@ https://docs.google.com/document/d/1YNh_K3J-Kfp10TdUqwzvWyOO22mcJlVfVCr0TMEa9RU/
 # S3 Transfer Acceleration
 https://docs.google.com/document/d/11JBgEgPzehhOhAFOad3eNNJohsWWUNRQEoKbAdpw9zw/edit?usp=sharing
 
+# S3 Static Website Hosting
+https://docs.google.com/document/d/1wuT4_z0c4NM3Yct1msixeCVDzs9CxuRNrVscmdruXPc/edit?usp=sharing
+
