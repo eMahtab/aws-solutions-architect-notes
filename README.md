@@ -56,3 +56,7 @@ https://docs.google.com/document/d/1sC8Agcdnh876cwGL3_zH9no3i5spAJF-YdivTbbyq3A/
 # Creating an Amazon EBS Backed Linux AMI
 https://docs.google.com/document/d/1sDzmUXeQQ7M8TcbVkgjB1aHo8ILVqGp1Lfv4wHa6nJ8/edit?usp=sharing
 
+# Sharing an Amazon EBS Snapshot
+https://docs.google.com/document/d/1PjT3rl0pBApamShsCAsvWxVWCG2aOQz3PTz4S7DqqKs/edit?usp=sharing
+
+
