@@ -25,5 +25,12 @@ https://docs.google.com/document/d/1rDzIKE1n3bRMaYH_kfca7iVx9xwItic_3wniXYEhD3c/
 # S3 Cross Region Replication
 https://docs.google.com/document/d/1ihjBwhFfiy3UwUVGE7tlASFVFXbvOwliBC1cdreno20/edit?usp=sharing
 
+# Storage Gateway
+https://docs.google.com/document/d/1whavlksYIf7iAkVtXABC17BLIFYxEElEvgpUFZlE-Ss/edit?usp=sharing
+
+# S3 Object Encryption
+https://docs.google.com/document/d/1tdBkzjxKiMAnS61rpK0xDlkqLeRSgAQOsJV7l2U2cN4/edit?usp=sharing
+
+
 
 
