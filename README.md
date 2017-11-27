@@ -37,4 +37,9 @@ https://docs.google.com/document/d/1x0D2i6h3RD-XOn9Fn2Y9q1B2BjjXS9mFmpE8DpceN8w/
 # AWS Import Export Disk
 https://docs.google.com/document/d/1jJHey03EdDHZOa7e2ATsvybpxOcy_bd-IKYS-ocF-0U/edit?usp=sharing
 
+# CloudFront
+https://docs.google.com/document/d/1YNh_K3J-Kfp10TdUqwzvWyOO22mcJlVfVCr0TMEa9RU/edit?usp=sharing
+
+# S3 Transfer Acceleration
+https://docs.google.com/document/d/11JBgEgPzehhOhAFOad3eNNJohsWWUNRQEoKbAdpw9zw/edit?usp=sharing
 
