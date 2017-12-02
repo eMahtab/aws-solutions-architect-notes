@@ -62,3 +62,12 @@ https://docs.google.com/document/d/1PjT3rl0pBApamShsCAsvWxVWCG2aOQz3PTz4S7DqqKs/
 
 # Creating Volume
 https://docs.google.com/document/d/1PL_FFtPc8wTCsf1Cn8FU1_3KIJ0Rp1hsoH-6m96l7Zo/edit?usp=sharing
+
+# EC2 CloudWatch Metrics
+https://docs.google.com/document/d/1GynqScYjiVLUCMrw7CAaI_rZmjh9DrDvgKCwet2Obbg/edit?usp=sharing
+
+# CloudWatch
+https://docs.google.com/document/d/17Qy5W1rgaFPQXxAuFkShHVLEzsdwL7sn1Zk4JYxPZag/edit?usp=sharing
+
+# Elastic Load Balancing and Load Balancer
+https://docs.google.com/document/d/1UYPD86S90a8U145ECWScUaA_piZaGe5mY_avLgngz4I/edit?usp=sharing
