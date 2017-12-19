@@ -72,6 +72,9 @@ https://docs.google.com/document/d/17Qy5W1rgaFPQXxAuFkShHVLEzsdwL7sn1Zk4JYxPZag/
 # Elastic Load Balancing and Load Balancer
 https://docs.google.com/document/d/1UYPD86S90a8U145ECWScUaA_piZaGe5mY_avLgngz4I/edit?usp=sharing
 
+# Simple Queue Service (SQS)
+https://docs.google.com/document/d/12Y9uCK6uT2VdxQzuwe7J1WteTL9aZl0NxtwCJBzXIk0/edit?usp=sharing
+
 # Simple Workflow Service (SWF)
 https://docs.google.com/document/d/1DJ8y-dhV1s9yhXsNeAneFLW9jdmvCYUVte-f4xmcFDI/edit?usp=sharing
 
