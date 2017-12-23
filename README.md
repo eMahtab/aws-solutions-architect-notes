@@ -83,3 +83,6 @@ https://docs.google.com/document/d/1a4BL2URTlWDaM4_LpRFc7hWBw09DYV0X4S2sXmPsBRU/
 
 # EC2 Hypervisor
 https://docs.google.com/document/d/1AEf0ZJl23t_8naw_FIqc45LblJaGD4RXjWVV72opOnI/edit?usp=sharing
+
+# AWS Direct Connect
+https://docs.google.com/document/d/1Q08fFAFdwKfP1cqxgQ6iepV5MPlBvEUg9ZzFn3O9hdk/edit?usp=sharing
