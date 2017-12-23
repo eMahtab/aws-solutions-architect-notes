@@ -78,3 +78,8 @@ https://docs.google.com/document/d/12Y9uCK6uT2VdxQzuwe7J1WteTL9aZl0NxtwCJBzXIk0/
 # Simple Workflow Service (SWF)
 https://docs.google.com/document/d/1DJ8y-dhV1s9yhXsNeAneFLW9jdmvCYUVte-f4xmcFDI/edit?usp=sharing
 
+# Amazon Kinesis
+https://docs.google.com/document/d/1a4BL2URTlWDaM4_LpRFc7hWBw09DYV0X4S2sXmPsBRU/edit?usp=sharing
+
+# EC2 Hypervisor
+https://docs.google.com/document/d/1AEf0ZJl23t_8naw_FIqc45LblJaGD4RXjWVV72opOnI/edit?usp=sharing
