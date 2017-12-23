@@ -89,3 +89,6 @@ https://docs.google.com/document/d/1Q08fFAFdwKfP1cqxgQ6iepV5MPlBvEUg9ZzFn3O9hdk/
 
 # EC2 Placement Group
 https://docs.google.com/document/d/1EYdYlv65hrh0cDVdAwqHdMP_xa7Q6gTA9wlYY4D1cks/edit?usp=sharing
+
+# AWS CloudTrail
+https://docs.google.com/document/d/1shBhuPjf9Go3vTHXvmZPae4FZZeMqhoJpDE_Ujb8SNg/edit?usp=sharing
