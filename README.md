@@ -86,3 +86,6 @@ https://docs.google.com/document/d/1AEf0ZJl23t_8naw_FIqc45LblJaGD4RXjWVV72opOnI/
 
 # AWS Direct Connect
 https://docs.google.com/document/d/1Q08fFAFdwKfP1cqxgQ6iepV5MPlBvEUg9ZzFn3O9hdk/edit?usp=sharing
+
+# EC2 Placement Group
+https://docs.google.com/document/d/1EYdYlv65hrh0cDVdAwqHdMP_xa7Q6gTA9wlYY4D1cks/edit?usp=sharing
