@@ -101,3 +101,6 @@ https://docs.google.com/document/d/1nCaNayOuf8EPeumdxtpcUnViZ6ErkgZiCCMK78-m2AI/
 
 # AWS CodeDeploy
 https://docs.google.com/document/d/1URjwcuaUIwj6scpnKjus_2RE1tKS7D9E83NrNYWNyr4/edit?usp=sharing
+
+# AWS CodePipeline
+https://docs.google.com/document/d/1G-9p7AT7XqCU8oEojrN-58zjfoLW6M7d0gLbR68m_kg/edit?usp=sharing
