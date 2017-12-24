@@ -95,3 +95,6 @@ https://docs.google.com/document/d/1shBhuPjf9Go3vTHXvmZPae4FZZeMqhoJpDE_Ujb8SNg/
 
 # AWS CodeBuild
 https://docs.google.com/document/d/1nCaNayOuf8EPeumdxtpcUnViZ6ErkgZiCCMK78-m2AI/edit?usp=sharing
+
+# AWS CodeDeploy
+https://docs.google.com/document/d/1URjwcuaUIwj6scpnKjus_2RE1tKS7D9E83NrNYWNyr4/edit?usp=sharing
