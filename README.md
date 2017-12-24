@@ -104,3 +104,6 @@ https://docs.google.com/document/d/1URjwcuaUIwj6scpnKjus_2RE1tKS7D9E83NrNYWNyr4/
 
 # AWS CodePipeline
 https://docs.google.com/document/d/1G-9p7AT7XqCU8oEojrN-58zjfoLW6M7d0gLbR68m_kg/edit?usp=sharing
+
+# AWS CodeStar
+https://docs.google.com/document/d/1MPRweZSvM0KZNsq_kQac-1To5jPmHtq4Y3RzyibI8Rk/edit?usp=sharing
