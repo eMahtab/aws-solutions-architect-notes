@@ -92,3 +92,6 @@ https://docs.google.com/document/d/1EYdYlv65hrh0cDVdAwqHdMP_xa7Q6gTA9wlYY4D1cks/
 
 # AWS CloudTrail
 https://docs.google.com/document/d/1shBhuPjf9Go3vTHXvmZPae4FZZeMqhoJpDE_Ujb8SNg/edit?usp=sharing
+
+# AWS CodeBuild
+https://docs.google.com/document/d/1nCaNayOuf8EPeumdxtpcUnViZ6ErkgZiCCMK78-m2AI/edit?usp=sharing
