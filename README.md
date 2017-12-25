@@ -117,3 +117,6 @@ https://docs.google.com/document/d/1G-9p7AT7XqCU8oEojrN-58zjfoLW6M7d0gLbR68m_kg/
 
 # AWS CodeStar
 https://docs.google.com/document/d/1MPRweZSvM0KZNsq_kQac-1To5jPmHtq4Y3RzyibI8Rk/edit?usp=sharing
+
+# AWS Trusted Advisor
+https://docs.google.com/document/d/1GHfWv4d6XA3YS1xF9krpPP402qs9V8gRXuosXvjlBGU/edit?usp=sharing
