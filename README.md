@@ -126,3 +126,6 @@ https://docs.google.com/document/d/1Bez3VALAa9QgsCkDmJxgDvyhET_MPhBWvEwvUMwKnhQ/
 
 # AWS OpsWorks
 https://docs.google.com/document/d/138WFfJWW-0vBOlg_BZlVqKF2u63BcewFWDXY3lXTLmQ/edit?usp=sharing
+
+# AWS Elastic Beanstalk
+https://docs.google.com/document/d/1QrZkVxzdCAHhtn5h6cu_e_cV8n87lZVZc5M8tBfbCUY/edit?usp=sharing
