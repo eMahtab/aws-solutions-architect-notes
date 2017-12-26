@@ -123,3 +123,6 @@ https://docs.google.com/document/d/1GHfWv4d6XA3YS1xF9krpPP402qs9V8gRXuosXvjlBGU/
 
 # AWS Config and Config Rules
 https://docs.google.com/document/d/1Bez3VALAa9QgsCkDmJxgDvyhET_MPhBWvEwvUMwKnhQ/edit?usp=sharing
+
+# AWS OpsWorks
+https://docs.google.com/document/d/138WFfJWW-0vBOlg_BZlVqKF2u63BcewFWDXY3lXTLmQ/edit?usp=sharing
