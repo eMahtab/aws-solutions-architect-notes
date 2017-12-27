@@ -130,5 +130,5 @@ https://docs.google.com/document/d/138WFfJWW-0vBOlg_BZlVqKF2u63BcewFWDXY3lXTLmQ/
 # AWS Elastic Beanstalk
 https://docs.google.com/document/d/1QrZkVxzdCAHhtn5h6cu_e_cV8n87lZVZc5M8tBfbCUY/edit?usp=sharing
 
-# Amazon Elastic Container Service (ECS) and Elastic Container Registry (ECR)
+# Amazon Elastic Container Service (ECS) and Elastic Container Registry (ECR), AWS Fargate
 https://docs.google.com/document/d/1t6eO3YyYEtJDubfBiVh7w-h8PnxC_forNclh7zejwt8/edit?usp=sharing
