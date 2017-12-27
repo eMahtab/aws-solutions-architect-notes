@@ -132,3 +132,6 @@ https://docs.google.com/document/d/1QrZkVxzdCAHhtn5h6cu_e_cV8n87lZVZc5M8tBfbCUY/
 
 # Amazon Elastic Container Service (ECS) and Elastic Container Registry (ECR), AWS Fargate
 https://docs.google.com/document/d/1t6eO3YyYEtJDubfBiVh7w-h8PnxC_forNclh7zejwt8/edit?usp=sharing
+
+# AWS Organizations
+https://docs.google.com/document/d/1F8cuthEWxrUgrJcR-tp5U51kGXkUB1uNAPgw9_hrA1A/edit?usp=sharing
