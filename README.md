@@ -135,3 +135,6 @@ https://docs.google.com/document/d/1t6eO3YyYEtJDubfBiVh7w-h8PnxC_forNclh7zejwt8/
 
 # AWS Organizations
 https://docs.google.com/document/d/1F8cuthEWxrUgrJcR-tp5U51kGXkUB1uNAPgw9_hrA1A/edit?usp=sharing
+
+# Consolidated Billing
+https://docs.google.com/document/d/1p6N_KNuI5brTy0NIVnN6DKs1Ag-vEi2j2ujVK-KoTPk/edit?usp=sharing
