@@ -141,3 +141,10 @@ https://docs.google.com/document/d/1p6N_KNuI5brTy0NIVnN6DKs1Ag-vEi2j2ujVK-KoTPk/
 
 # Amazon Elasticsearch Service (ES)
 https://docs.google.com/document/d/10BE32fVQHEAXQJNSeHPu7shQ_Mu6m5N_KR3h4XQLM4U/edit?usp=sharing
+
+
+# VPC Peering
+https://docs.google.com/document/d/1vpfpVP9NZXYYaB1ES6M1Tmd0Mz-RFahh-NSxdHp_qQg/edit?usp=sharing
+
+# Amazon WorkSpaces
+https://docs.google.com/document/d/1eVCq6vsxyoGpRskEPnPxts3S-y6AvxFvshGLac1NZt8/edit?usp=sharing
