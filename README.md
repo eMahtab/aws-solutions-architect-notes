@@ -138,3 +138,6 @@ https://docs.google.com/document/d/1F8cuthEWxrUgrJcR-tp5U51kGXkUB1uNAPgw9_hrA1A/
 
 # Consolidated Billing
 https://docs.google.com/document/d/1p6N_KNuI5brTy0NIVnN6DKs1Ag-vEi2j2ujVK-KoTPk/edit?usp=sharing
+
+# Amazon Elasticsearch Service
+https://docs.google.com/document/d/10BE32fVQHEAXQJNSeHPu7shQ_Mu6m5N_KR3h4XQLM4U/edit?usp=sharing
