@@ -148,3 +148,6 @@ https://docs.google.com/document/d/1vpfpVP9NZXYYaB1ES6M1Tmd0Mz-RFahh-NSxdHp_qQg/
 
 # Amazon WorkSpaces
 https://docs.google.com/document/d/1eVCq6vsxyoGpRskEPnPxts3S-y6AvxFvshGLac1NZt8/edit?usp=sharing
+
+# Cross Account Access - Delegate Access Across AWS Accounts Using IAM Roles
+https://docs.google.com/document/d/1ElMenJDPqdq9roFWDEQDJV21qoRno_72jlMGm6CnG_c/edit?usp=sharing
