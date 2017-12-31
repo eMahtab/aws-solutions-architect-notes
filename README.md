@@ -159,3 +159,6 @@ https://docs.google.com/document/d/13f0ibVY4denec-6S8k44cfiCSLjRKez6EY8l2fnqLeQ/
 
 # Federating Access to your AWS Environment
 https://docs.google.com/document/d/1oEwnY6kh2oiJAjj-1d5zd__EbT0cZNYyjcaAmsgZdvM/edit?usp=sharing
+
+# Security Token Service (STS) and Temporary Credentials
+https://docs.google.com/document/d/1MozXxkayRDW8TbsnF0fmwUuwcddBl4uW3aERPnfYuuM/edit?usp=sharing
