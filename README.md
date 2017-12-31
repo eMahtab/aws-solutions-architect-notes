@@ -155,3 +155,7 @@ https://docs.google.com/document/d/1ElMenJDPqdq9roFWDEQDJV21qoRno_72jlMGm6CnG_c/
 
 # Amazon Directory Service
 https://docs.google.com/document/d/13f0ibVY4denec-6S8k44cfiCSLjRKez6EY8l2fnqLeQ/edit?usp=sharing
+
+
+# Federating Access to your AWS Environment
+https://docs.google.com/document/d/1oEwnY6kh2oiJAjj-1d5zd__EbT0cZNYyjcaAmsgZdvM/edit?usp=sharing
