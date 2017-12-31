@@ -151,3 +151,7 @@ https://docs.google.com/document/d/1eVCq6vsxyoGpRskEPnPxts3S-y6AvxFvshGLac1NZt8/
 
 # Cross Account Access - Delegate Access Across AWS Accounts Using IAM Roles
 https://docs.google.com/document/d/1ElMenJDPqdq9roFWDEQDJV21qoRno_72jlMGm6CnG_c/edit?usp=sharing
+
+
+# Amazon Directory Service
+https://docs.google.com/document/d/13f0ibVY4denec-6S8k44cfiCSLjRKez6EY8l2fnqLeQ/edit?usp=sharing
