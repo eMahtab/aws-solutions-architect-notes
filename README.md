@@ -162,3 +162,6 @@ https://docs.google.com/document/d/1oEwnY6kh2oiJAjj-1d5zd__EbT0cZNYyjcaAmsgZdvM/
 
 # Security Token Service (STS) and Temporary Credentials
 https://docs.google.com/document/d/1MozXxkayRDW8TbsnF0fmwUuwcddBl4uW3aERPnfYuuM/edit?usp=sharing
+
+# Resource Groups and Tagging
+https://docs.google.com/document/d/1hhF2mYTOia5GdM0-3X3-fqzCS5NYUsGavgB3f3rrkR0/edit?usp=sharing
