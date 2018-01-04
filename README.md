@@ -54,6 +54,9 @@ https://docs.google.com/document/d/1h7oev9_8rpLfgb4LKG0mXFlpv9rRuLGUkMfx_U9alzI/
 # Security Groups for your VPC
 https://docs.google.com/document/d/1sC8Agcdnh876cwGL3_zH9no3i5spAJF-YdivTbbyq3A/edit?usp=sharing
 
+# Route Tables
+https://docs.google.com/document/d/1grmlxCjSYRktJV_7R6GXymtjIZaCvD1Mv9VhGQuVsDY/edit?usp=sharing
+
 # Creating an Amazon EBS Backed Linux AMI
 https://docs.google.com/document/d/1sDzmUXeQQ7M8TcbVkgjB1aHo8ILVqGp1Lfv4wHa6nJ8/edit?usp=sharing
 
