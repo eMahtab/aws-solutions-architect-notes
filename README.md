@@ -4,6 +4,9 @@ https://docs.google.com/document/d/1Zq7XOK2OwIbWA6vpSX7eEk6pNbA9FnjJjzgqOJ8qkgA/
 # Network ACLs
 https://docs.google.com/document/d/1phWiuBnG0Zm-XhUlc59yJjiSKHNaxV7cA8xHBo5CJGI/edit?usp=sharing
 
+# VPC Flow Logs
+https://docs.google.com/document/d/1pPQSwaDdm9ZIt_Sal4TnfRaHstbvTrwSjzN_cq42jxw/edit?usp=sharing
+
 # Elastic Network Interfaces
 https://docs.google.com/document/d/1GmAxoJ36aVa5Cdu5C8o14wonr7Soy_HFnfwA2wYMI-s/edit?usp=sharing
 
