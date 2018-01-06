@@ -184,3 +184,6 @@ https://docs.google.com/document/d/1MozXxkayRDW8TbsnF0fmwUuwcddBl4uW3aERPnfYuuM/
 
 # Resource Groups and Tagging
 https://docs.google.com/document/d/1hhF2mYTOia5GdM0-3X3-fqzCS5NYUsGavgB3f3rrkR0/edit?usp=sharing
+
+# Bastion Host
+https://docs.google.com/document/d/1i9JM8M8T0Hlczxdh8fzIYKSb4Of_UvMFv1H15NFh1Sg/edit?usp=sharing
