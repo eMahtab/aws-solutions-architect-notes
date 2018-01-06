@@ -7,6 +7,9 @@ https://docs.google.com/document/d/1phWiuBnG0Zm-XhUlc59yJjiSKHNaxV7cA8xHBo5CJGI/
 # Load Balancer Gotchas
 https://docs.google.com/document/d/1MHX0JoyAaJIGyRvjWeioPASPNn927vtdMzCn8EZt5-A/edit?usp=sharing
 
+# Ephemeral Ports
+https://docs.google.com/document/d/1djkZPgi9CKgxFM_ybUCFR7LoFjQ1Ch-e4IDF6fvybnU/edit?usp=sharing
+
 # EBS Root Volume
 https://docs.google.com/document/d/1wdUyMAaKEgJELN5k9hMCOUJ81eHxGCSPV77JLy7H1PA/edit?usp=sharing
 
