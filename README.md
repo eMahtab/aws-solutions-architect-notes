@@ -10,6 +10,9 @@ https://docs.google.com/document/d/1pPQSwaDdm9ZIt_Sal4TnfRaHstbvTrwSjzN_cq42jxw/
 # Elastic Network Interfaces
 https://docs.google.com/document/d/1GmAxoJ36aVa5Cdu5C8o14wonr7Soy_HFnfwA2wYMI-s/edit?usp=sharing
 
+# VPC Endpoints
+https://docs.google.com/document/d/1R6rtfWIPSjUrXSTWg5_251dh-2v51Z05XdCKMYRZvkU/edit?usp=sharing
+
 # Load Balancer Gotchas
 https://docs.google.com/document/d/1MHX0JoyAaJIGyRvjWeioPASPNn927vtdMzCn8EZt5-A/edit?usp=sharing
 
