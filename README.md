@@ -190,3 +190,6 @@ https://docs.google.com/document/d/1hhF2mYTOia5GdM0-3X3-fqzCS5NYUsGavgB3f3rrkR0/
 
 # Bastion Host
 https://docs.google.com/document/d/1i9JM8M8T0Hlczxdh8fzIYKSb4Of_UvMFv1H15NFh1Sg/edit?usp=sharing
+
+# Amazon Athena
+https://docs.google.com/document/d/1g2CXsysao7cfS4mmtmpHhXtH2j8t5zr7aX_CAqYoF_s/edit?usp=sharing
