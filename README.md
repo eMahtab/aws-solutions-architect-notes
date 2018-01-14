@@ -70,6 +70,9 @@ https://docs.google.com/document/d/11JBgEgPzehhOhAFOad3eNNJohsWWUNRQEoKbAdpw9zw/
 # S3 Static Website Hosting
 https://docs.google.com/document/d/1wuT4_z0c4NM3Yct1msixeCVDzs9CxuRNrVscmdruXPc/edit?usp=sharing
 
+# Lambda and API Gateway
+https://docs.google.com/document/d/1ri1Ocs7_ySNlsLy29EliF_2PqHg8oHBFLwoo38ySfC0/edit?usp=sharing
+
 # EC2 - Elastic Compute Cloud
 https://docs.google.com/document/d/1h7oev9_8rpLfgb4LKG0mXFlpv9rRuLGUkMfx_U9alzI/edit?usp=sharing
 
