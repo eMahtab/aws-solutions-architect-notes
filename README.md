@@ -55,6 +55,9 @@ https://docs.google.com/document/d/1whavlksYIf7iAkVtXABC17BLIFYxEElEvgpUFZlE-Ss/
 # S3 Object Encryption
 https://docs.google.com/document/d/1tdBkzjxKiMAnS61rpK0xDlkqLeRSgAQOsJV7l2U2cN4/edit?usp=sharing
 
+# Route 53 Alias and CNAME record
+https://docs.google.com/document/d/1ORsRvvsNLnhi023kSReIDTHjujsooa_6Fvoy8fXmnQc/edit?usp=sharing
+
 # AWS Snowball
 https://docs.google.com/document/d/1x0D2i6h3RD-XOn9Fn2Y9q1B2BjjXS9mFmpE8DpceN8w/edit?usp=sharing
 
