@@ -40,6 +40,12 @@ https://docs.google.com/document/d/1Buv21i642cmrb4miOcAnZB75-ERgaYWXQZtmE5sCc98/
 # 169.254.169.254
 https://docs.google.com/document/d/1eRsA21AeoPtqqvgHXIb512bFcsXG_7D5eiqRsBp3WvA/edit?usp=sharing
 
+# EC2-Classic and EC2-VPC
+https://docs.google.com/document/d/1yxzVVnT-BLWRXLUCi4hpkaNZjCQN63IXUOQcxGkuIZY/edit?usp=sharing
+
+# Elastic IP Addresses
+https://docs.google.com/document/d/1aT6YExfNIiklVKPNUdpL77OeBttN7cHlx2y8ARPgD2w/edit?usp=sharing
+
 # IAM Policy, S3 Bucket Policy and S3 ACLs
 https://docs.google.com/document/d/11A-YNtwmlYzONSmep345FDh5AfZrqtbzEI_PG5GKxRk/edit?usp=sharing
 
