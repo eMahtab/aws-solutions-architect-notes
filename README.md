@@ -55,6 +55,9 @@ https://docs.google.com/document/d/1rDzIKE1n3bRMaYH_kfca7iVx9xwItic_3wniXYEhD3c/
 # S3 Cross Region Replication
 https://docs.google.com/document/d/1ihjBwhFfiy3UwUVGE7tlASFVFXbvOwliBC1cdreno20/edit?usp=sharing
 
+# S3 Essentials
+https://docs.google.com/document/d/1b4S0ODmlN_AkuswiFtW1TTd7tG-dofzTsIjK8wHMvm4/edit?usp=sharing
+
 # Storage Gateway
 https://docs.google.com/document/d/1whavlksYIf7iAkVtXABC17BLIFYxEElEvgpUFZlE-Ss/edit?usp=sharing
 
