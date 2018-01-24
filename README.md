@@ -217,3 +217,13 @@ https://docs.google.com/document/d/1g2CXsysao7cfS4mmtmpHhXtH2j8t5zr7aX_CAqYoF_s/
 
 # AWS Well Architected Framework
 https://docs.google.com/document/d/1qMuEkL9ZlBlFFQlaFlveXPvfCWhcXBKVSYfl6kntLLA/edit?usp=sharing
+
+# VPC and Subnets
+https://docs.google.com/document/d/1EGv5-waDmVyQAN7flB4-ndRbM86LN92DuoDhrmN-AZk/edit?usp=sharing
+
+# VPC and Subnet Sizing
+https://docs.google.com/document/d/1ZXz9wMYkcN7gPyq86F_HekPatIat_61CF7jkgeA58kY/edit?usp=sharing
+
+# Egress only Internet Gateway
+https://docs.google.com/document/d/1Z4-1IqRW3R6qcaM61vEZEoAzEq3k1QADQw-JH6zHrp0/edit?usp=sharing
+
