@@ -1,4 +1,4 @@
-# Default VPC
+# Default VPC - [x]
 https://docs.google.com/document/d/1Zq7XOK2OwIbWA6vpSX7eEk6pNbA9FnjJjzgqOJ8qkgA/edit?usp=sharing
 
 # Network ACLs
