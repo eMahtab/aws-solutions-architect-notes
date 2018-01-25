@@ -1,67 +1,67 @@
 # Default VPC :thumbsup:
 https://docs.google.com/document/d/1Zq7XOK2OwIbWA6vpSX7eEk6pNbA9FnjJjzgqOJ8qkgA/edit?usp=sharing
 
-# Network ACLs
+# Network ACLs :thumbsup:
 https://docs.google.com/document/d/1phWiuBnG0Zm-XhUlc59yJjiSKHNaxV7cA8xHBo5CJGI/edit?usp=sharing
 
-# VPC Flow Logs
+# VPC Flow Logs :thumbsup:
 https://docs.google.com/document/d/1pPQSwaDdm9ZIt_Sal4TnfRaHstbvTrwSjzN_cq42jxw/edit?usp=sharing
 
-# Elastic Network Interfaces
+# Elastic Network Interfaces :thumbsup:
 https://docs.google.com/document/d/1GmAxoJ36aVa5Cdu5C8o14wonr7Soy_HFnfwA2wYMI-s/edit?usp=sharing
 
-# VPC Endpoints
+# VPC Endpoints :thumbsup:
 https://docs.google.com/document/d/1R6rtfWIPSjUrXSTWg5_251dh-2v51Z05XdCKMYRZvkU/edit?usp=sharing
 
-# Load Balancer Gotchas
+# Load Balancer Gotchas :thumbsup:
 https://docs.google.com/document/d/1MHX0JoyAaJIGyRvjWeioPASPNn927vtdMzCn8EZt5-A/edit?usp=sharing
 
-# Ephemeral Ports
+# Ephemeral Ports :thumbsup:
 https://docs.google.com/document/d/1djkZPgi9CKgxFM_ybUCFR7LoFjQ1Ch-e4IDF6fvybnU/edit?usp=sharing
 
-# EBS Root Volume
+# EBS Root Volume :thumbsup:
 https://docs.google.com/document/d/1wdUyMAaKEgJELN5k9hMCOUJ81eHxGCSPV77JLy7H1PA/edit?usp=sharing
 
-# Amazon EBS Encryption
+# Amazon EBS Encryption :thumbsup:
 https://docs.google.com/document/d/1MFQ-X4rVv0QSFu3TikOQdSfccafZI-hfoSOEOPkjoFI/edit?usp=sharing
 
-# Launching an EC2 Instance
+# Launching an EC2 Instance :thumbsup:
 https://docs.google.com/document/d/1xGS1H8RFToncGt0n4VBAC4Nc7RoCKiNINSEu2H9prsM/edit?usp=sharing
 
-# EBS Snapshot
+# EBS Snapshot :thumbsup:
 https://docs.google.com/document/d/1QZI_Dvf-aKqvEWkVsqoPNeV6sYMyA87g6kbvVfH1lP4/edit?usp=sharing
 
-# EC2 Status Checks
+# EC2 Status Checks :thumbsup:
 https://docs.google.com/document/d/1XjihF7pSdqME0mQ-uR3kj2I0TuSdecSgLSL1-V7Eqbo/edit?usp=sharing
 
-# EC2 Instance Types
+# EC2 Instance Types :thumbsup:
 https://docs.google.com/document/d/1Buv21i642cmrb4miOcAnZB75-ERgaYWXQZtmE5sCc98/edit?usp=sharing
 
-# 169.254.169.254
+# 169.254.169.254 :thumbsup:
 https://docs.google.com/document/d/1eRsA21AeoPtqqvgHXIb512bFcsXG_7D5eiqRsBp3WvA/edit?usp=sharing
 
-# EC2-Classic and EC2-VPC
+# EC2-Classic and EC2-VPC :thumbsup:
 https://docs.google.com/document/d/1yxzVVnT-BLWRXLUCi4hpkaNZjCQN63IXUOQcxGkuIZY/edit?usp=sharing
 
-# Elastic IP Addresses
+# Elastic IP Addresses :thumbsup:
 https://docs.google.com/document/d/1aT6YExfNIiklVKPNUdpL77OeBttN7cHlx2y8ARPgD2w/edit?usp=sharing
 
-# IAM Policy, S3 Bucket Policy and S3 ACLs
+# IAM Policy, S3 Bucket Policy and S3 ACLs :thumbsup:
 https://docs.google.com/document/d/11A-YNtwmlYzONSmep345FDh5AfZrqtbzEI_PG5GKxRk/edit?usp=sharing
 
-# S3 Lifecycle Management
+# S3 Lifecycle Management :thumbsup:
 https://docs.google.com/document/d/1rDzIKE1n3bRMaYH_kfca7iVx9xwItic_3wniXYEhD3c/edit?usp=sharing
 
-# S3 Cross Region Replication
+# S3 Cross Region Replication :thumbsup:
 https://docs.google.com/document/d/1ihjBwhFfiy3UwUVGE7tlASFVFXbvOwliBC1cdreno20/edit?usp=sharing
 
-# S3 Essentials
+# S3 Essentials :thumbsup:
 https://docs.google.com/document/d/1b4S0ODmlN_AkuswiFtW1TTd7tG-dofzTsIjK8wHMvm4/edit?usp=sharing
 
-# Storage Gateway
+# Storage Gateway :thumbsup:
 https://docs.google.com/document/d/1whavlksYIf7iAkVtXABC17BLIFYxEElEvgpUFZlE-Ss/edit?usp=sharing
 
-# S3 Object Encryption
+# S3 Object Encryption :thumbsup:
 https://docs.google.com/document/d/1tdBkzjxKiMAnS61rpK0xDlkqLeRSgAQOsJV7l2U2cN4/edit?usp=sharing
 
 # Route 53 Alias and CNAME record
@@ -76,19 +76,19 @@ https://docs.google.com/document/d/1jJHey03EdDHZOa7e2ATsvybpxOcy_bd-IKYS-ocF-0U/
 # CloudFront
 https://docs.google.com/document/d/1YNh_K3J-Kfp10TdUqwzvWyOO22mcJlVfVCr0TMEa9RU/edit?usp=sharing
 
-# S3 Transfer Acceleration
+# S3 Transfer Acceleration :thumbsup:
 https://docs.google.com/document/d/11JBgEgPzehhOhAFOad3eNNJohsWWUNRQEoKbAdpw9zw/edit?usp=sharing
 
-# S3 Static Website Hosting
+# S3 Static Website Hosting :thumbsup:
 https://docs.google.com/document/d/1wuT4_z0c4NM3Yct1msixeCVDzs9CxuRNrVscmdruXPc/edit?usp=sharing
 
 # Lambda Invocation and Triggers
 https://docs.google.com/document/d/1zfLTiQ16TWghxWNDilKRHs_HqEi6cdoAib5AYv0RBBs/edit?usp=sharing
 
-# Lambda and API Gateway
+# Lambda and API Gateway :thumbsup:
 https://docs.google.com/document/d/1ri1Ocs7_ySNlsLy29EliF_2PqHg8oHBFLwoo38ySfC0/edit?usp=sharing
 
-# EC2 - Elastic Compute Cloud
+# EC2 - Elastic Compute Cloud :thumbsup:
 https://docs.google.com/document/d/1h7oev9_8rpLfgb4LKG0mXFlpv9rRuLGUkMfx_U9alzI/edit?usp=sharing
 
 # Security Groups for your VPC
