@@ -103,7 +103,7 @@ https://docs.google.com/document/d/1sDzmUXeQQ7M8TcbVkgjB1aHo8ILVqGp1Lfv4wHa6nJ8/
 # Sharing an Amazon EBS Snapshot :thumbsup:
 https://docs.google.com/document/d/1PjT3rl0pBApamShsCAsvWxVWCG2aOQz3PTz4S7DqqKs/edit?usp=sharing
 
-# Creating Volume
+# Creating Volume :thumbsup:
 https://docs.google.com/document/d/1PL_FFtPc8wTCsf1Cn8FU1_3KIJ0Rp1hsoH-6m96l7Zo/edit?usp=sharing
 
 # EC2 CloudWatch Metrics
