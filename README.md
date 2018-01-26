@@ -106,7 +106,7 @@ https://docs.google.com/document/d/1PjT3rl0pBApamShsCAsvWxVWCG2aOQz3PTz4S7DqqKs/
 # Creating Volume :thumbsup:
 https://docs.google.com/document/d/1PL_FFtPc8wTCsf1Cn8FU1_3KIJ0Rp1hsoH-6m96l7Zo/edit?usp=sharing
 
-# EC2 CloudWatch Metrics
+# EC2 CloudWatch Metrics :thumbsup:
 https://docs.google.com/document/d/1GynqScYjiVLUCMrw7CAaI_rZmjh9DrDvgKCwet2Obbg/edit?usp=sharing
 
 # CloudWatch :thumbsup:
