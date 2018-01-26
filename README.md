@@ -64,7 +64,7 @@ https://docs.google.com/document/d/1whavlksYIf7iAkVtXABC17BLIFYxEElEvgpUFZlE-Ss/
 # S3 Object Encryption :thumbsup:
 https://docs.google.com/document/d/1tdBkzjxKiMAnS61rpK0xDlkqLeRSgAQOsJV7l2U2cN4/edit?usp=sharing
 
-# Route 53 Alias and CNAME record
+# Route 53 Alias and CNAME record :thumbsup:
 https://docs.google.com/document/d/1ORsRvvsNLnhi023kSReIDTHjujsooa_6Fvoy8fXmnQc/edit?usp=sharing
 
 # AWS Snowball :thumbsup:
@@ -203,7 +203,7 @@ https://docs.google.com/document/d/13f0ibVY4denec-6S8k44cfiCSLjRKez6EY8l2fnqLeQ/
 # Federating Access to your AWS Environment
 https://docs.google.com/document/d/1oEwnY6kh2oiJAjj-1d5zd__EbT0cZNYyjcaAmsgZdvM/edit?usp=sharing
 
-# Security Token Service (STS) and Temporary Credentials
+# Security Token Service (STS) and Temporary Credentials :thumbsup:
 https://docs.google.com/document/d/1MozXxkayRDW8TbsnF0fmwUuwcddBl4uW3aERPnfYuuM/edit?usp=sharing
 
 # Resource Groups and Tagging :thumbsup:
