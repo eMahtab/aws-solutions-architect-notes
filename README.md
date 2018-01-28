@@ -232,3 +232,7 @@ https://docs.google.com/document/d/159Rn--npQn5HPwgHIlBRszA8LZlqfocHxFwjAROLQ8A/
 
 # S3 API
 https://docs.google.com/document/d/1Gfa-9WF3AkL9Wmf1JLTHuIVnrFce9zB2fSkW6sBFenw/edit?usp=sharing
+
+
+# S3 Object Key and Metadata
+https://docs.google.com/document/d/1DR2ycPYaFu7NCFzmOJmB8lmaWlJPPrDSXQ-XCPsXmUI/edit?usp=sharing
