@@ -229,3 +229,6 @@ https://docs.google.com/document/d/1Z4-1IqRW3R6qcaM61vEZEoAzEq3k1QADQw-JH6zHrp0/
 
 # Controlling Auto Scaling Scale In
 https://docs.google.com/document/d/159Rn--npQn5HPwgHIlBRszA8LZlqfocHxFwjAROLQ8A/edit?usp=sharing
+
+# S3 API
+https://docs.google.com/document/d/1Gfa-9WF3AkL9Wmf1JLTHuIVnrFce9zB2fSkW6sBFenw/edit?usp=sharing
