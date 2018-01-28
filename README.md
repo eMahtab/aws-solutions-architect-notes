@@ -227,3 +227,5 @@ https://docs.google.com/document/d/1ZXz9wMYkcN7gPyq86F_HekPatIat_61CF7jkgeA58kY/
 # Egress only Internet Gateway
 https://docs.google.com/document/d/1Z4-1IqRW3R6qcaM61vEZEoAzEq3k1QADQw-JH6zHrp0/edit?usp=sharing
 
+# Controlling Auto Scaling Scale In
+https://docs.google.com/document/d/159Rn--npQn5HPwgHIlBRszA8LZlqfocHxFwjAROLQ8A/edit?usp=sharing
