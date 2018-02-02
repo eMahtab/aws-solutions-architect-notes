@@ -236,3 +236,6 @@ https://docs.google.com/document/d/1Gfa-9WF3AkL9Wmf1JLTHuIVnrFce9zB2fSkW6sBFenw/
 
 # S3 Object Key and Metadata
 https://docs.google.com/document/d/1DR2ycPYaFu7NCFzmOJmB8lmaWlJPPrDSXQ-XCPsXmUI/edit?usp=sharing
+
+# When you stop an EC2 Instance
+https://docs.google.com/document/d/1Sz_0nNOI6RTBZPoygWV3DaxPflLqj1Fwtob1_6X0hkg/edit?usp=sharing
