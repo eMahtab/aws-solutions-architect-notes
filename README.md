@@ -239,3 +239,6 @@ https://docs.google.com/document/d/1DR2ycPYaFu7NCFzmOJmB8lmaWlJPPrDSXQ-XCPsXmUI/
 
 # When you stop an EC2 Instance
 https://docs.google.com/document/d/1Sz_0nNOI6RTBZPoygWV3DaxPflLqj1Fwtob1_6X0hkg/edit?usp=sharing
+
+# Standard Reserved Instances and Scheduled Reserved Instances
+https://docs.google.com/document/d/1BfpPTN_fD7nhPyDKtj0AGeXEfDeEl5KGXWOxg-6WAxg/edit?usp=sharing
