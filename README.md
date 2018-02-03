@@ -245,3 +245,6 @@ https://docs.google.com/document/d/1BfpPTN_fD7nhPyDKtj0AGeXEfDeEl5KGXWOxg-6WAxg/
 
 # Amazon ECS Launch Types
 https://docs.google.com/document/d/1UqTDF0f1cw6gz5OY9EKmwioZm4KNWSfQ5CE0q6erLKU/edit?usp=sharing
+
+# Container Instance AMIs & Amazon ECS Optimized AMI
+https://docs.google.com/document/d/1n6amWmpYEv4oBliix9rlwhqQy8XTSinVAlemL2uxFSA/edit?usp=sharing
