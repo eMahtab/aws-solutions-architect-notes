@@ -242,3 +242,6 @@ https://docs.google.com/document/d/1Sz_0nNOI6RTBZPoygWV3DaxPflLqj1Fwtob1_6X0hkg/
 
 # Standard Reserved Instances and Scheduled Reserved Instances
 https://docs.google.com/document/d/1BfpPTN_fD7nhPyDKtj0AGeXEfDeEl5KGXWOxg-6WAxg/edit?usp=sharing
+
+# Amazon ECS Launch Types
+https://docs.google.com/document/d/1UqTDF0f1cw6gz5OY9EKmwioZm4KNWSfQ5CE0q6erLKU/edit?usp=sharing
