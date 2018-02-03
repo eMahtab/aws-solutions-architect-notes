@@ -248,3 +248,6 @@ https://docs.google.com/document/d/1UqTDF0f1cw6gz5OY9EKmwioZm4KNWSfQ5CE0q6erLKU/
 
 # Container Instance AMIs & Amazon ECS Optimized AMI
 https://docs.google.com/document/d/1n6amWmpYEv4oBliix9rlwhqQy8XTSinVAlemL2uxFSA/edit?usp=sharing
+
+# DHCP Options Set
+https://docs.google.com/document/d/1AQOeI138NqIqhTUcR-Z4VyY7_T83wAH60Pmylb4Je6Y/edit?usp=sharing
