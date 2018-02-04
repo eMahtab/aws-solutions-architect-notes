@@ -260,3 +260,6 @@ https://docs.google.com/document/d/1Hpumcr1zZLVIXr799QOod1fLx2I_Mhz6FI7AaBt1_gU/
 
 # Auto Scaling Options
 https://docs.google.com/document/d/1cBf-1EOtaisDwM0jjXtFVPrLUYqCABeE8BTsAs70Wb8/edit?usp=sharing
+
+# Comparison of ALB, NLB and Classic Load Balancer
+https://docs.google.com/document/d/1j5SCuzd4lFCVLX_j_52f5YB44M9ePp-JRVZbgrBYMOM/edit?usp=sharing
