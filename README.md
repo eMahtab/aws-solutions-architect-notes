@@ -257,3 +257,6 @@ https://docs.google.com/document/d/1wO9JwzjIcOGn1H9CxTSjc1GJ_jlAeIymYyS3xstgqtg/
 
 # Instance Profile
 https://docs.google.com/document/d/1Hpumcr1zZLVIXr799QOod1fLx2I_Mhz6FI7AaBt1_gU/edit?usp=sharing
+
+# Auto Scaling Options
+https://docs.google.com/document/d/1cBf-1EOtaisDwM0jjXtFVPrLUYqCABeE8BTsAs70Wb8/edit?usp=sharing
