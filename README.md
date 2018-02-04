@@ -254,3 +254,6 @@ https://docs.google.com/document/d/1AQOeI138NqIqhTUcR-Z4VyY7_T83wAH60Pmylb4Je6Y/
 
 # Spot Instances
 https://docs.google.com/document/d/1wO9JwzjIcOGn1H9CxTSjc1GJ_jlAeIymYyS3xstgqtg/edit?usp=sharing
+
+# Instance Profile
+https://docs.google.com/document/d/1Hpumcr1zZLVIXr799QOod1fLx2I_Mhz6FI7AaBt1_gU/edit?usp=sharing
